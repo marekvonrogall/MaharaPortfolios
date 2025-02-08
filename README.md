@@ -61,3 +61,14 @@ Thema: ToDo-Planer (Einsatz von PHP)
 
 [https://portfolio.bbbaden.ch/view/view.php?t=49f1cf6aa6f794a7c44f](https://portfolio.bbbaden.ch/view/view.php?t=49f1cf6aa6f794a7c44f)
 
+## LA 0101
+
+Thema: Minecraft Modpack (Java)
+
+[https://portfolio.bbbaden.ch/view/view.php?t=1b0f2172234e3183e0da](https://portfolio.bbbaden.ch/view/view.php?t=1b0f2172234e3183e0da)
+
+## LA 0102
+
+Thema: File Sharing App (WPF C#)
+
+[https://portfolio.bbbaden.ch/view/view.php?t=31d66b8eacbc0990a598](https://portfolio.bbbaden.ch/view/view.php?t=31d66b8eacbc0990a598)
